@@ -9,5 +9,10 @@ namespace Corte1.clase
     internal class Registro
     {
         Registro[] persona = new Registro[30];
+
+        public static explicit operator Registro(Persona v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

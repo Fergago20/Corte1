@@ -34,7 +34,7 @@
             this.tbNombre = new System.Windows.Forms.TextBox();
             this.tbApellido = new System.Windows.Forms.TextBox();
             this.dtpNacimiento = new System.Windows.Forms.DateTimePicker();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cbCiudad = new System.Windows.Forms.ComboBox();
             this.Ciudad = new System.Windows.Forms.Label();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.btnEdad = new System.Windows.Forms.Button();
@@ -88,22 +88,22 @@
             this.dtpNacimiento.Size = new System.Drawing.Size(200, 20);
             this.dtpNacimiento.TabIndex = 5;
             // 
-            // comboBox1
+            // cbCiudad
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(148, 252);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(173, 21);
-            this.comboBox1.TabIndex = 6;
+            this.cbCiudad.FormattingEnabled = true;
+            this.cbCiudad.Location = new System.Drawing.Point(148, 252);
+            this.cbCiudad.Name = "cbCiudad";
+            this.cbCiudad.Size = new System.Drawing.Size(173, 21);
+            this.cbCiudad.TabIndex = 6;
             // 
             // Ciudad
             // 
             this.Ciudad.AutoSize = true;
             this.Ciudad.Location = new System.Drawing.Point(76, 255);
             this.Ciudad.Name = "Ciudad";
-            this.Ciudad.Size = new System.Drawing.Size(44, 13);
+            this.Ciudad.Size = new System.Drawing.Size(40, 13);
             this.Ciudad.TabIndex = 7;
-            this.Ciudad.Text = "Apellido";
+            this.Ciudad.Text = "Ciudad";
             // 
             // btnAgregar
             // 
@@ -113,6 +113,7 @@
             this.btnAgregar.TabIndex = 8;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // btnEdad
             // 
@@ -122,6 +123,7 @@
             this.btnEdad.TabIndex = 9;
             this.btnEdad.Text = "Clasificar";
             this.btnEdad.UseVisualStyleBackColor = true;
+            this.btnEdad.Click += new System.EventHandler(this.btnEdad_Click);
             // 
             // Form1
             // 
@@ -131,7 +133,7 @@
             this.Controls.Add(this.btnEdad);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.Ciudad);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cbCiudad);
             this.Controls.Add(this.dtpNacimiento);
             this.Controls.Add(this.tbApellido);
             this.Controls.Add(this.tbNombre);
@@ -140,6 +142,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -153,7 +156,7 @@
         private System.Windows.Forms.TextBox tbNombre;
         private System.Windows.Forms.TextBox tbApellido;
         private System.Windows.Forms.DateTimePicker dtpNacimiento;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cbCiudad;
         private System.Windows.Forms.Label Ciudad;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Button btnEdad;

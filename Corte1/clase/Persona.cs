@@ -13,7 +13,7 @@ namespace Corte1.clase
         public DateTime Nacimiento { get; set; }
         public string Ciudad {  get; set; }
 
-        Persona (string nombre, string apelido, DateTime nacimiento, string ciudad)
+        public Persona (string nombre, string apelido, DateTime nacimiento, string ciudad)
         {
             Nombre = nombre;
             Apelido = apelido;

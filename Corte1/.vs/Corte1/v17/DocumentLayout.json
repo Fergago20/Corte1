@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|c:\\users\\labc205\\documents\\examen 1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|c:\\users\\labc205\\documents\\examen 1\\corte1\\clase\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:clase\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|c:\\users\\labc205\\documents\\examen 1\\corte1\\clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EF2DB-A8D3-4138-8484-C70A58E383D8}|Corte1.csproj|solutionrelative:clase\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +39,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Operacion.cs",
-              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Operacion.cs",
-              "RelativeDocumentMoniker": "clase\\Operacion.cs",
-              "ToolTip": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Operacion.cs",
-              "RelativeToolTip": "clase\\Operacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:30:36.824Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -59,39 +50,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:35:33.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Operacion.cs",
+              "RelativeDocumentMoniker": "clase\\Operacion.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Operacion.cs",
+              "RelativeToolTip": "clase\\Operacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:30:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Registro.cs",
               "RelativeDocumentMoniker": "clase\\Registro.cs",
               "ToolTip": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Registro.cs",
               "RelativeToolTip": "clase\\Registro.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T14:25:51.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Persona.cs",
               "RelativeDocumentMoniker": "clase\\Persona.cs",
               "ToolTip": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\clase\\Persona.cs",
               "RelativeToolTip": "clase\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:21:42.774Z"
+              "WhenOpened": "2024-09-23T14:21:42.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\labc205\\Documents\\Examen 1\\Corte1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:14:45.915Z"
+              "WhenOpened": "2024-09-23T14:14:45.915Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
