@@ -8,3 +8,13 @@ C:\Users\labc205\Documents\Examen 1\Corte1\bin\Debug\Corte1.exe
 C:\Users\labc205\Documents\Examen 1\Corte1\bin\Debug\Corte1.pdb
 C:\Users\labc205\Documents\Examen 1\Corte1\obj\Debug\Corte1.exe
 C:\Users\labc205\Documents\Examen 1\Corte1\obj\Debug\Corte1.pdb
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\bin\Debug\Corte1.exe.config
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\bin\Debug\Corte1.exe
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\bin\Debug\Corte1.pdb
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.exe
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.pdb
+C:\Users\guill\OneDrive\Documentos\Fernando\Corte1\obj\Debug\Corte1.RegistroDeEdadGV.resources

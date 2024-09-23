@@ -11,13 +11,14 @@ using System.Windows.Forms;
 
 namespace Corte1
 {
-    public partial class Form1 : Form
+    public partial class RegistroDeEdadGV : Form
     {
         Operacion op = new Operacion();
+        Registro registro = new Registro();
         
         int index = 0;
 
-        public Form1()
+        public RegistroDeEdadGV()
         {
             InitializeComponent();
         }
@@ -36,9 +37,8 @@ namespace Corte1
                 nacimiento = dtpNacimiento.Value;
                 ciudad = cbCiudad.SelectedItem.ToString();
                 Persona persona = new Persona(nombre, apellido, nacimiento, ciudad);
-                Registro[] per = new Registro[30];
-                per[index] = (Registro)persona;
-                
+                registro.AgregarPer(persona);
+               
                 
                 index++;
             }
@@ -57,10 +57,19 @@ namespace Corte1
 
         private void btnEdad_Click(object sender, EventArgs e)
         {
-            DateTime nacimiento = dtpNacimiento.Value;
-            int edad;
-            edad = op.Calcular(nacimiento);
-            MessageBox.Show(op.Medir(edad));
+
+
+            Persona[] personas = registro.ObtenerPersonas();
+            if (personas.Length > 0)
+            {
+                Persona ultimaPersona = personas.Last();
+                int edad = op.Calcular(ultimaPersona.Nacimiento);
+                MessageBox.Show(op.Medir(edad));
+            }
+            else
+            {
+                MessageBox.Show("No hay personas registradas.");
+            }
         }
     }
 }

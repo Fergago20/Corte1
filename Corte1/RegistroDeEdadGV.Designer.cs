@@ -1,6 +1,6 @@
 ﻿namespace Corte1
 {
-    partial class Form1
+    partial class RegistroDeEdadGV
     {
         /// <summary>
         /// Variable del diseñador necesaria.
